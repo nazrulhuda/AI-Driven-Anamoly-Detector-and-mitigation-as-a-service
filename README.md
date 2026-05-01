@@ -634,9 +634,6 @@ kubectl logs -l app=ratings
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## 🆘 Support
 
