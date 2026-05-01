@@ -1,4 +1,4 @@
-# AI-Driven Anomaly Detector and Mitigation as a Service
+# A Decentralized ML-Based Framework for Service-Level DDoS Detection and Mitigation in Service Mesh Infrastructures
 
 An intelligent, AI-powered anomaly detection system designed for Kubernetes service mesh environments. This system automatically monitors network traffic patterns, detects DDoS attacks using machine learning, and implements intelligent traffic failover to maintain service availability.
 
